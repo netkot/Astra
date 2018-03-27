@@ -3,7 +3,6 @@ $astra_sounds_files = 'files/astra_commands.txt';
 $out_file = 'files/new_commands.txt';
 
 
-
 $fh = file ($astra_sounds_files);
 
 
@@ -13,19 +12,15 @@ foreach ($fh as $nx_str)
     $nx_str = trim ($nx_str);
 
 
-
-
     if (preg_match ('/quantum theory.*\.mp3/', $nx_str))
         {
 //        echo $nx_str,'<br />';
-
         $out .= create_command ($nx_str,'Tell me about');
         }
     }
 
 
 // Write new commands to file
-
 $out_fh = fopen ($out_file,'w+');
 fwrite ($out_fh, $out);
 fclose ($out_fh);
@@ -34,7 +29,6 @@ fclose ($out_fh);
 
 
 // Create xml command block
-
 function create_command ($sound_file_path, $prefix_phrase)
     {
     $out = '';
