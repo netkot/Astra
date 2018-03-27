@@ -4,12 +4,13 @@ Converter for <a href="https://www.hcsvoicepacks.com/products/astra">A.S.T.R.A.<
 
 Convert file line like this:
 
-E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\accepted.mp3
-E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\acknowledged.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\accepted.mp3<br />
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\acknowledged.mp3<br />
 
 
 into xml file for Astra config
 
+<pre>
 <Command>
   <commandString>Tell me about act of observation</commandString>
   <actionList />
@@ -26,3 +27,4 @@ into xml file for Astra config
   <answeringSound>true</answeringSound>
   <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\alice and bob.mp3</answeringSoundPath>
 </Command>
+</pre>
