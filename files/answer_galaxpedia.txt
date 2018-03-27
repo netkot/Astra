@@ -1,0 +1,1825 @@
+
+      <Command>
+        <commandString>Tell me about ablation</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\ablation.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about absolute magnitude</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\absolute magnitude.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about absolute zero</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\absolute zero.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about absorbtion lines</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\absorbtion lines.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about accretion disk</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\accretion disk.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about accretion</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\accretion.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about active galactic nuclae</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\active galactic nuclae.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about airy disk</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\airy disk.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about albedo</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\albedo.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about altitude</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\altitude.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about andromeda</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\andromeda.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about annular eclipse</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\annular eclipse.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about antimatter</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\antimatter.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about aphelian</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\aphelian.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about apparant magnitude</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\apparant magnitude.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about apparition</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\apparition.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about asteroid belt</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\asteroid belt.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about asteroids</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\asteroids.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about astro chemistry</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\astro chemistry.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about astronomical unit</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\astronomical unit.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about atmosphere</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\atmosphere.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about aurora</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\aurora.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about barnards star</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\barnards star.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about barred spiral galaxy</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\barred spiral galaxy.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about baryon</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\baryon.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about big bang</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\big bang.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about binary star</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\binary star.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about black hole</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\black hole.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about blazar</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\blazar.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about blue shift</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\blue shift.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about bode einstein</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\bode einstein.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about bok globule</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\bok globule.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about bolide</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\bolide.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about brown dwarf</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\brown dwarf.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about buvkyball</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\buvkyball.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about carbon star</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\carbon star.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about chondrite</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\chondrite.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about chondrule</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\chondrule.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about circumpolar star</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\circumpolar star.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about circumstellar disk</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\circumstellar disk.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about comet</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\comet.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about constellation</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\constellation.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about corona</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\corona.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about cosmic ray</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\cosmic ray.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about cosmic string</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\cosmic string.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about cosmogony</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\cosmogony.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about cosmology</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\cosmology.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about dark energy</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\dark energy.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about dark matter</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\dark matter.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about doppler affect</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\doppler affect.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about dwarf galaxy</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\dwarf galaxy.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about dwarf planet</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\dwarf planet.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about E T</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\E T.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about eccentricity</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\eccentricity.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about eclipse</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\eclipse.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about electromagneticspectrum</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\electromagneticspectrum.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about ellipse</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\ellipse.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about ephemeris</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\ephemeris.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about equinox</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\equinox.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about escape velocity</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\escape velocity.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about event horizon</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\event horizon.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about evolved star</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\evolved star.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about extra galactic</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\extra galactic.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about faculae</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\faculae.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about filament</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\filament.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about galactic halo</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\galactic halo.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about galactic nucleus</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\galactic nucleus.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about galaxy</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\galaxy.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about galilean moon</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\galilean moon.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about gamma rays</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\gamma rays.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about gas giant</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\gas giant.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about geo synchronous orbit</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\geo synchronous orbit.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about globular clusters</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\globular clusters.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about gmc</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\gmc.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about granulation</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\granulation.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about gravity</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\gravity.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about green house effect</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\green house effect.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about helio pause</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\helio pause.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about helio sphere</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\helio sphere.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about hiper galaxy</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\hiper galaxy.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about hydrogen</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\hydrogen.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about hydrostatic equilibrium</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\hydrostatic equilibrium.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about i am astra</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\i am astra.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about inclintion</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\inclintion.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about inferior conjunction</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\inferior conjunction.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about inferor planet</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\inferor planet.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about interplanetary magnetic field</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\interplanetary magnetic field.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about interstellar medium</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\interstellar medium.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about interstellar</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\interstellar.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about ionosphere</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\ionosphere.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about iron meteorites</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\iron meteorites.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about irregular galaxy</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\irregular galaxy.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about irregular satellite</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\irregular satellite.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about jansky</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\jansky.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about jet</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\jet.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about keiper belt</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\keiper belt.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about kelvin</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\kelvin.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about keplers 1st law</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\keplers 1st law.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about keplers 2nd law</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\keplers 2nd law.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about keplers 3rd law</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\keplers 3rd law.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about kiloparsec</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\kiloparsec.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about kirkwood gaps</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\kirkwood gaps.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about lagrange point</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\lagrange point.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about lenticular galaxy</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\lenticular galaxy.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about libration</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\libration.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about light year</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\light year.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about limb</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\limb.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about local group</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\local group.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about luminosity</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\luminosity.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about lunar eclipse</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\lunar eclipse.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about lunar month</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\lunar month.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about lunation</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\lunation.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about magnetic field</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\magnetic field.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about magnitude</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\magnitude.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about main belt</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\main belt.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about mare</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\mare.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about mass</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\mass.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about matter</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\matter.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about megallanic clouds</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\megallanic clouds.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about megaparsec</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\megaparsec.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about meridian</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\meridian.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about metal</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\metal.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about meteor shower</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\meteor shower.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about meteor</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\meteor.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about meteorite</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\meteorite.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about meteoroid</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\meteoroid.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about milky way</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\milky way.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about minor planets</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\minor planets.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about molecular cloud</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\molecular cloud.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about moon</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\moon.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about morning star</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\morning star.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about nadir</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\nadir.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about nebula</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\nebula.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about neutrino</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\neutrino.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about neutron stars</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\neutron stars.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about newtons 3 laws</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\newtons 3 laws.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about nova</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\nova.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about nuclear fusion</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\nuclear fusion.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about obliquity</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\obliquity.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about occultation</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\occultation.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about open clusters</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\open clusters.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about opposition</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\opposition.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about orbit</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\orbit.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about ort cloud</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\ort cloud.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about parallax</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\parallax.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about parsec</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\parsec.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about patera</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\patera.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about penumbra</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\penumbra.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about perigee</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\perigee.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about perihelion</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\perihelion.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about perturb</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\perturb.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about phase</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\phase.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about photon</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\photon.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about photosphere</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\photosphere.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about planemo</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\planemo.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about planet</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\planet.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about planetary nebula</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\planetary nebula.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about planetesimals</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\planetesimals.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about plasma</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\plasma.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about precession</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\precession.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about prograde orbit</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\prograde orbit.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about prominence</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\prominence.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about proper motion</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\proper motion.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about proto star</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\proto star.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about protoplanetarydisk</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\protoplanetarydisk.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about pulsar</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\pulsar.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about quadrature</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\quadrature.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about quasar</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\quasar.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about quasi stellar</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\quasi stellar.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about radial velocity</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\radial velocity.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about radiant</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\radiant.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about radiation belt</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\radiation belt.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about radiation</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\radiation.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about radio galaxy</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\radio galaxy.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about red giant</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\red giant.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about redshift</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\redshift.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about regular satellite</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\regular satellite.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about resonance</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\resonance.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about retrograde motion</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\retrograde motion.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about retrograde orbit</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\retrograde orbit.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about right assentian</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\right assentian.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about ring galaxy</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\ring galaxy.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about roche limit</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\roche limit.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about satellite</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\satellite.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about seyfert</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\seyfert.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about shell star</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\shell star.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about sheperd satellite</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\sheperd satellite.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about sidereal period</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\sidereal period.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about sidereal</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\sidereal.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about siderial month</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\siderial month.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about singularity</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\singularity.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about small solar system body</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\small solar system body.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about solar cycle</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\solar cycle.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about solar eclipse</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\solar eclipse.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about solar flare</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\solar flare.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about solar nebula</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\solar nebula.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about solar wind</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\solar wind.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about soldtice</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\soldtice.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about spectrum</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\spectrum.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about spicule</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\spicule.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about spiral galaxy</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\spiral galaxy.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about star clusters</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\star clusters.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about stars</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\star.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about steady state theory</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\steady state theory.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about stellar wind</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\stellar wind.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about sunspots</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\sunspots.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about supergiant</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\supergiant.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about superior conjunction</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\superior conjunction.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about superior planet</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\superior planet.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about supernova</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\supernova.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about T N O</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\T N O.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about terminator</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\terminator.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about terrestrial planet</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\terrestrial planet.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about terrestrial</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\terrestrial.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about tidal force</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\tidal force.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about tidal heating</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\tidal heating.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about transit</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\transit.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about trojans</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\trojans.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about umbra</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\umbra.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about utraviolet</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\utraviolet.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about van allen belts</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\van allen belts.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about variable star</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\variable star.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about virgo cluster</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\virgo cluster.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about visual magnitude</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\visual magnitude.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about wavelength</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\wavelength.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about white dwarf</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\white dwarf.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about xataclysmic variable</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\xataclysmic variable.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about yellow dwarf</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\yellow dwarf.mp3</answeringSoundPath>
+      </Command>

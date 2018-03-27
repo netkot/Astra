@@ -1,0 +1,1620 @@
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\accepted.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\acknowledged.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\affirmative.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\analysis correct.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\appropriating now.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\are you sure.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\awaiting further instructions.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\awaiting orders.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\bypassing now.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\cancelled.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\classified.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\colating.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\confirmed.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\correct.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\declined.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\determining the outcome is not possible.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\disengaging.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\engaged.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\engaging.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\i'm here.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\i concur.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\initiating.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\investigating now.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\negative.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\no response.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\not an option.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\ok.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\okay executing now.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\over riding now.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\performing now.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\positive.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\precisely.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\preparing now.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\preparing.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\right.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\standing by.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\thankyou.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\unable to comply.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\unacceptable.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\unecessary.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\unkown.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\wrong.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\yes.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\you're welcome.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\accessing database.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\accessing glossary.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\accessing index.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\accessing library.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\accessing music.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\accessing.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\adding information to database.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\adding.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\change camera.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\downloading.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\enter.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\erasing from database.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\freezing simulation.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\handshaking.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\muting input.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\organising playlist.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\output only.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\pausing entry.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\pausing simulation.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\playing entry.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\playing last entry.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\playing last recording.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\playing next entry.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\playing next recording.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\playing previous entry.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\playing previous recording.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\playing recording.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\privacy off.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\privacy on.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\recording now.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\recording stopped.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\replaying entry.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\searching database.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\searching glossary.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\searching index.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\stopping entry.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\taking high res photo.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\taking photo.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\transfer complete.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\unlock mouse.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\applications\uploading now.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\astra_commands.txt
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\animal meat.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what are advanced catalysers.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what are agri medicines.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what are alloys.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what are animal monitors.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what are aquaponics.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what are basic medicines.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what are bio reducing lichen.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what are combat stabilizers.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what are computer components.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what are domestic appliances.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what are enrgy drinks.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what are explosives.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what are fabricators.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what are fish.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what are food cartridges.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what are fruit and vegatables.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what are h e suits new.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what are he suits.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what are hel static furnaces.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what are hydrogen fuels.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what are marine supplies.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what are mineral extractors.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what are narcotics.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what are natural fabrics.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what are non lethal weapons.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what are performance enhancers.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what are pesticides.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what are plastics.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what are polymers.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what are progenetor cells.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what are resonating serators.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what are robotics.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what are semi conductors.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what are super conductors.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what are synthetic fabrics.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is a crop harvester.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is a personal weapon.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is a terrain enrichment system.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is algae.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is aluminium.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is animal meat.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is bauxite.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is beer.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is bertrandite.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is beryllium.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is biowaste.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is clothing.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is cobalt.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is coffee.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is coltan.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is consumer technology.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is copper.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is cotton.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is gallite.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is gallium.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is gold.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is indite.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is indium.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is leather.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is lepidolite.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is liquor.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is lithium.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is mineral oil.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is palladium.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is personal armour.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is reactive armour.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is rutile.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is scrap.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is silver.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is synthetic meat.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is tantalum.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is tea.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is titanium.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is tobacco.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is uraninite.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is uranium.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\commodities\what is wine.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\channel 1.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\channel 10.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\channel 2.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\channel 3.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\channel 4.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\channel 5.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\channel 6.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\channel 7.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\channel 8.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\channel 9.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\comm link channel 1.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\comm link channel 10.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\comm link channel 2.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\comm link channel 3.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\comm link channel 4.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\comm link channel 5.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\comm link channel 6.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\comm link channel 7.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\comm link channel 8.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\comm link channel 9.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\comm link closed.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\comm link open.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\comms channel 1.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\comms channel 10.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\comms channel 2.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\comms channel 3.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\comms channel 4.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\comms channel 5.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\comms channel 6.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\comms channel 7.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\comms channel 8.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\comms channel 9.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\comms closed.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\comms open.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\comms.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\communications.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\enter message.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\input message now.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\voice comms channel 1.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\voice comms channel 10.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\voice comms channel 2.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\voice comms channel 3.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\voice comms channel 4.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\voice comms channel 5.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\voice comms channel 6.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\voice comms channel 7.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\voice comms channel 8.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\communications\voice comms channel 9.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\configuration commands
+E:\Video\Vocal\A.S.T.R.A VoicePack\configuration commands\attack alpha.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\configuration commands\attack beta.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\configuration commands\attack charlie.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\configuration commands\attack delta.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\configuration commands\attack protocol.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\configuration commands\attack protocols initiating.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\configuration commands\battlemode.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\configuration commands\configuring retreat.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\configuration commands\defence foxtrot.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\configuration commands\defence gamma.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\configuration commands\defence india.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\configuration commands\defence mode.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\configuration commands\defence protocol hotel.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\configuration commands\defence protocol.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\configuration commands\defence protocols.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\configuration commands\distancing now.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\configuration commands\engaging evasive manouvres.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\configuration commands\escape velocity prepped.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\configuration commands\executing evasive manouvres.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\configuration commands\exit route engaged.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\configuration commands\maneuvring.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\configuration commands\power for retreating and running.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\configuration commands\travel mode.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\configuration commands\turning around.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\andromeda.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\antlia.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\apus.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\aquarius.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\aquila.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\ara.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\aries.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\auriga.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\bootis.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\caelum.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\Camelopardalis.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\cancer.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\Canes Venatici .mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\canis major.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\canis minor.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\capricornus.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\carina.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\casseopia.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\centaurus.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\cephius.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\cetus.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\Chamaeleon.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\circanus.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\columba.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\coma bereneces.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\corona australis.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\corona borealis.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\corvus.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\crater.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\crux.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\cygnus.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\delphinus.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\dorado.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\draco.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\equullius.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\eridanus.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\fornax.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\gemini.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\grus.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\hercules.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\horologium.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\hydra.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\hydrus.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\indus.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\lacerta.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\leo minor.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\leo.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\lepus.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\libra.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\lupus.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\lynx.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\lyra.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\mensa.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\microscopium.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\monocerus.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\musca.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\norma.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\octans.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\ophiucus.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\orion.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\pavo.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\pegasus.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\perseus.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\pheonix.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\pictor.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\pisces.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\Piscis Austrinus.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\puppis.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\pyxis.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\reticulum.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\sagita.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\sagitarius.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\scorpius.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\sculptor.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\scutum.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\serpens.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\sextans.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\taurus.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\telescopium.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\triangulum australe.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\triangulum.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\tucana.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\ursa major.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\ursa minor.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\vela.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\virgo.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\volans.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\vulpecula.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\activating  rotational correction.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\air braking.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\auto pilot disengaged.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\auto pilot engaged.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\cutting back.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\deactivating rotational correction.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\decouple disabled.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\decouple mode enabled.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\decouple.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\decreasing speed.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\decreasing velocity.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\disabling rotational correction.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\drives
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\drives\charging frameshift drive.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\drives\charging supercruise drive.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\drives\disengaging cruise.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\drives\disengaging jump drive.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\drives\disengaging jump.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\drives\disengaging supercruise.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\drives\drive deactivated.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\drives\drives engaging 75 percent.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\drives\emergency stop.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\drives\engaging cruise.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\drives\engaging jump drive.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\drives\engaging jump.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\drives\engaging now 50 percent.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\drives\engaging supercruise.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\drives\exiting now.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\drives\frameshift active.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\drives\frameshift drive disengaging.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\drives\frameshift drive engaging.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\drives\initiating emergency stop.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\drives\jump.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\drives\jumping flat.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\drives\jumping to light speed.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\drives\jumping.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\drives\maximum drive.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\drives\preparing for cruise.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\drives\preparing for jump.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\drives\preparing for supercruise.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\drives\suercruise drive engaging.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\drives\supercruise drive disengaging.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\drives\warp drive initiated.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\enabling rotational correction.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\engines
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\engines\acknowledged 3 quarter impulse now.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\engines\affirmative, full engine stop.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\engines\cutting engines stop here.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\engines\enabling impulse engines.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\engines\full ahead.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\engines\full reverse.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\engines\half impulse.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\engines\half reverse.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\engines\maximum impulse.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\engines\quarter impulse, nice and slow.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\engines\quarter impulse.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\engines\slowing to impulse engines.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\engines\slowing.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\engines\three quarter impulse.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\etd increments
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\etd increments\100 percent now sir.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\etd increments\100%.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\etd increments\20 %.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\etd increments\25 percent engaged.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\etd increments\25 sir.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\etd increments\50%.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\etd increments\75%.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\etd increments\engaging now 50 percent.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\etd increments\fifty percent speed.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\etd increments\going to maximum.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\etd increments\increasing speed.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\etd increments\increasing velocity.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\etd increments\increments of 10 percent.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\etd increments\okay 50 percent engaged Copy.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\etd increments\okay 50 percent engaged.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\etd increments\okay 75 readying now.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\etd increments\stepping down velocity by 10 percent.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\etd increments\understood 25 percent.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\etd increments\understood fifty percent.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\etd increments\yes sir 25 percent.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\flight assist is now offline.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\flight assist off.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\flight assist online.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\forward thrust.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\full burn.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\full throttle.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\g-safety disengaged.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\g safety engaged.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\holding position.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\ignition.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\maximum velocity engaged.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\minimizing speed.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\observation speed.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\reducing speed.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\reducing thrust.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\slowing to inspection velocity.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\slowing to observation speed.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\space break.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\stand by going to maximum now.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\throttle disengaged.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\throttle to full.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\throttling down.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\afterburners.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\appyling more thrust.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\boost.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\boosting now.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\cut thrust.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\final checks accent thrust vectors and launch.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\final checks accent thrust vectors.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\forward thrusters engaging.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\intelligent thrusters disengaged.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\intelligent thrusters, initiating, done.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\maximum thrust 1.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\maximum thrust.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\minimise thrusters for observation.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\prepping thrusters for main burn.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\reverse thrusters 25%.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\reverse thrusters 25.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\reverse thrusters 50%.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\reverse thrusters 50.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\reverse thrusters 75%.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\reverse thrusters 75.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\reverse thrusters engaging.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\reverse thrusters max.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\reverse thrusters maximum.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\reverse thrusters.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\reversing 100%.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\reversing 25%.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\reversing 50%.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\reversing 75%.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\reversing thrusters.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\setting thrust vector control to auto.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\setting thrust vector control to manual.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\stop all thrusters.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\thrusters 100%.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\thrusters 20 percent.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\thrusters 25 percent.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\thrusters 50 percent.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\thrusters 75 percent.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\engines thrusters and drives\thrusters\thrusters for bridge observation.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\ablation.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\absolute magnitude.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\absolute zero.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\absorbtion lines.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\accretion disk.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\accretion.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\active galactic nuclae.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\airy disk.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\albedo.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\altitude.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\andromeda.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\annular eclipse.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\antimatter.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\aphelian.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\apparant magnitude.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\apparition.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\asteroid belt.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\asteroids.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\astro chemistry.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\astronomical unit.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\atmosphere.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\aurora.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\barnards star.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\barred spiral galaxy.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\baryon.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\big bang.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\binary star.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\black hole.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\blazar.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\blue shift.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\bode einstein.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\bok globule.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\bolide.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\brown dwarf.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\buvkyball.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\carbon star.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\chondrite.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\chondrule.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\circumpolar star.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\circumstellar disk.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\comet.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\constellation.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\corona.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\cosmic ray.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\cosmic string.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\cosmogony.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\cosmology.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\dark energy.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\dark matter.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\doppler affect.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\dwarf galaxy.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\dwarf planet.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\E T.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\eccentricity.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\eclipse.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\electromagneticspectrum.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\ellipse.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\ephemeris.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\equinox.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\escape velocity.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\event horizon.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\evolved star.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\extra galactic.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\faculae.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\filament.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\galactic halo.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\galactic nucleus.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\galaxy.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\galilean moon.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\gamma rays.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\gas giant.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\geo synchronous orbit.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\globular clusters.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\gmc.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\granulation.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\gravity.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\green house effect.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\helio pause.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\helio sphere.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\hiper galaxy.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\hydrogen.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\hydrostatic equilibrium.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\i am astra.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\inclintion.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\inferior conjunction.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\inferor planet.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\interplanetary magnetic field.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\interstellar medium.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\interstellar.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\ionosphere.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\iron meteorites.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\irregular galaxy.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\irregular satellite.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\jansky.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\jet.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\keiper belt.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\kelvin.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\keplers 1st law.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\keplers 2nd law.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\keplers 3rd law.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\kiloparsec.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\kirkwood gaps.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\lagrange point.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\lenticular galaxy.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\libration.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\light year.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\limb.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\local group.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\luminosity.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\lunar eclipse.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\lunar month.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\lunation.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\magnetic field.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\magnitude.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\main belt.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\mare.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\mass.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\matter.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\megallanic clouds.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\megaparsec.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\meridian.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\metal.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\meteor shower.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\meteor.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\meteorite.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\meteoroid.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\milky way.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\minor planets.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\molecular cloud.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\moon.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\morning star.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\nadir.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\nebula.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\neutrino.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\neutron stars.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\newtons 3 laws.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\nova.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\nuclear fusion.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\obliquity.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\occultation.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\open clusters.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\opposition.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\orbit.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\ort cloud.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\parallax.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\parsec.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\patera.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\penumbra.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\perigee.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\perihelion.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\perturb.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\phase.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\photon.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\photosphere.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\planemo.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\planet.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\planetary nebula.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\planetesimals.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\plasma.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\precession.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\prograde orbit.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\prominence.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\proper motion.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\proto star.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\protoplanetarydisk.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\pulsar.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\quadrature.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\quasar.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\quasi stellar.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\radial velocity.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\radiant.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\radiation belt.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\radiation.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\radio galaxy.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\red giant.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\redshift.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\regular satellite.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\resonance.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\retrograde motion.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\retrograde orbit.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\right assentian.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\ring galaxy.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\roche limit.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\satellite.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\seyfert.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\shell star.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\sheperd satellite.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\sidereal period.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\sidereal.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\siderial month.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\singularity.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\small solar system body.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\solar cycle.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\solar eclipse.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\solar flare.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\solar nebula.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\solar wind.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\soldtice.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\spectrum.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\spicule.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\spiral galaxy.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\star clusters.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\star.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\steady state theory.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\stellar wind.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\sunspots.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\supergiant.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\superior conjunction.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\superior planet.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\supernova.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\T N O.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\terminator.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\terrestrial planet.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\terrestrial.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\tidal force.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\tidal heating.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\transit.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\trojans.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\umbra.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\utraviolet.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\van allen belts.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\variable star.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\virgo cluster.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\visual magnitude.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\wavelength.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\white dwarf.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\xataclysmic variable.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\yellow dwarf.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\mech online
+E:\Video\Vocal\A.S.T.R.A VoicePack\mech online\advanced zoom engaged.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\mech online\alpha released.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\mech online\arm lock engaged.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\mech online\arm lock released.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\mech online\displaying battlegrid.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\mech online\displaying scoreboard.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\mech online\displaying scores.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\mech online\main menu.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\mech online\night vison engaged.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\mech online\rockets and jetpacks.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\mech online\target overlay engaged.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\mech online\target overlay released.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\mech online\thermal vision engaged.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\mech online\triggering module one.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\mech online\triggering module two.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\mech online\zoom increased.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\mech online\zoom reset.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\Oculus
+E:\Video\Vocal\A.S.T.R.A VoicePack\Oculus\main menu activated.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\Oculus\oculus rift.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\Oculus\reset.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\Oculus\resetting oculus.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\Oculus\rift reset.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\aft shields increased.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\aft shields.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\all shields.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\balancing power back to engines systems and weapons.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\bottom shields increased.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\bottom shields.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\calibrating now.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\configuring for attack.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\configuring for defence.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\configuring for recovery.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\configuring for retreat.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\damage to systems attempting repairs.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\divert power to shields.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\divert power to systems.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\divert to engines.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\diverting power to requested system.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\diverting power to requested systems.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\diverto to weapons.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\equalise power.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\equalise shields.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\equalising now.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\fore shields increased.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\fore shields.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\forrid shields.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\forward shields increased.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\forward shields.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\hull integrity 100.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\left shields increased.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\left shields.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\lower shields increased.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\max engines.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\max systems.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\max weapons.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\port shields increased.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\power balanced.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\power to engines.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\power to shields.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\power to weapons happy huntin.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\power to weapons.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\power.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\prepping shields for descent.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\redistributing.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\resetting.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\returning systems to normal.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\right shields increased.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\right shields.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\shields equalized.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\shields.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\starboard shields increased.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\top shields increased.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\power management\top shields.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\act of observation.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\alice and bob.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\atom.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\Bell's Theorem.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\Bose Einstein Condensate.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\computing.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\cryptography.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\decoherance.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\dice.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\entanglement.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\free will.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\gluon.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\gravity.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\hawking radiation.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\hidden variables.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\information.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\interferometer.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\Josephson Junction.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\kaon.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\lhc large hadron collider.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\light.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\many worlds theory.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\multiverse.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\nonlocality.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\Objective Reality.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\Planck's Constant.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\Probability.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\q-bit.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\quantum biology.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\radioactivity.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\randomness.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\reality.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\Schrædinger's cat.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\Schrædinger Equation.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\super position.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\teleportation.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\tunneling.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\uncertainty principle.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\universe.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\virtual particles.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\wave function.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\wave particle duality.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\xray.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\Young's Double Slit Experiment.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\zero point energy.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\rank
+E:\Video\Vocal\A.S.T.R.A VoicePack\rank\captain
+E:\Video\Vocal\A.S.T.R.A VoicePack\rank\captain\affirmative captain.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\rank\captain\captain all systems nominal.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\rank\captain\captain.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\rank\captain\captains log.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\rank\captain\welcome back captain.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\rank\captain\yes captain 2.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\rank\captain\yes captain.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\rank\commander
+E:\Video\Vocal\A.S.T.R.A VoicePack\rank\commander\affirmative commander.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\rank\commander\commander all systems nominal.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\rank\commander\commander incoming trans.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\rank\commander\fine commander.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\rank\commander\incoming trans commander.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\rank\commander\yes commander 2.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\rank\commander\yes commander.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\rank\commodore
+E:\Video\Vocal\A.S.T.R.A VoicePack\rank\commodore\affirmative commodore.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\rank\commodore\of course commodore.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\rank\commodore\welcome aboard commodore.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\rank\commodore\welcome back commander.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\rank\commodore\yes commodore 2.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\rank\commodore\yes commodore.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\rank\sir
+E:\Video\Vocal\A.S.T.R.A VoicePack\rank\sir\want something sir.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\rank\sir\yes sir 2.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\rank\sir\yes sir.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\abandon ship.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\all other considerations made.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\already off.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\already on.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\another solution to consider.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\attributable to human error.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\bad.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\best to think carefully.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\bobble head.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\brace for impact.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\catastrophic failure.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\clueless.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\conspiracies
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\conspiracies\conspiracy theories quote.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\conspiracies\further information is required.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\conspiracies\inconclusive findings.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\conspiracies\information vague.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\conspiracies\intel life.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\conspiracies\its alien.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\conspiracies\other life rumour.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\conspiracies\risk unknown.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\conspiracies\rumours1.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\conspiracies\sightings1.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\conspiracies\there is little known about this system.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\conspiracies\there is no evidence.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\conspiracies\there is no more information.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\conspiracies\undetermined.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\crying infant.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\cutting communications.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\damaged.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\danger.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\darth vader.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\defensive.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\do you need me.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\do you think its a good idea.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\docking help and advice guide.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\DOWNLOAD ME NOW AT.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\ellen ripley.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\entry found.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\excuse me.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\fear of the unknown.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\feeling alright.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\flawed and wreckless.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\following.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\forward CORRECT TERM.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\forward.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\good evening.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\good morning.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\good.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\goodbye.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\hailing now.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\hello.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\i am capable of.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\i am unable to determine.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\i can hear you fine if you arent mumbling.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\i dont do funny.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\i dont have an opinion.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\i dont have that info.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\i dont make the decisions.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\i was sleeping.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\i will not be drawn into political discussion.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\i would advise against that course of action.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\im not an entertainer.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\impressive.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\in our interests to attack.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\in our interests to defend.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\inappropriate.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\interaction mode.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\intercepting.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\interception mode engaged.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\intoxicated.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\intruder alert.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\is there a problem here.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\it is not a borg cube.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\it isnt clear.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\its a bad idea.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\its in the ships log.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\ive never heard of it.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\keep calm.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\look ahead.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\looking good.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\losing your temper with things.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\loud and clear.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\lucky.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\making checks.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\making safe.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\modifier.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\mos eisley.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\my name is astra.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\my status.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\negotiating.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\no have you REQUESTED AS A ONE LINER FROM ALIEN 2 WHEN ASKED have you ever been mistaken for a man.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\offloading.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\options.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\orbital navigation system online.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\overview.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\phenomenal.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\piracy is rife here.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\please clarify.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\please confirm.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\political discussion.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\preparing for interception.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\receiving telemetry.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\red alert.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\relative mode.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\relax.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\relocating.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\resistance is futile.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\response to shut up.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\sarcasm consequences.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\securing the ship.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\shall i take over.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\ships log.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\something wonderful.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\stand clear.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\startrek leaving dock FAIR USE POLICY.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\starwars leaving dock FAIR USE POLICY.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\thats already done.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\thats your responsibility.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\the force.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\theres nothing wrong with my ears.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\trading terms cleche
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\trading terms cleche\cut your losses.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\trading terms cleche\if you don't know who you are.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\trading terms cleche\make hay while the sun is shining.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\trading terms cleche\pigs get fat.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\trading terms cleche\trading is a marathon not a sprint.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\trading terms cleche\you'll nevr go broke taking profits.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\tremendous.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\unidentified phenomena.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\unlucky.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\Untitled 1.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\warning about speed towards dock.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\warp drive.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\welcome back.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\welcome.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\what can i do.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\what do you want to do today.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\who made you.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\wonderful.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\yellow alert.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\you're welcome.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\you should consider leaving ship damaged.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\you sound a little tense.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\your point.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\your theory is flawed.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\role\youve made another mistake.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\sensors radar
+E:\Video\Vocal\A.S.T.R.A VoicePack\sensors radar\decreasing sensor range to a minimum.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\sensors radar\decreasing sensor range.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\sensors radar\hostile scan detected.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\sensors radar\increasinf sensors to maximum range.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\sensors radar\increasing sensor range 2.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\sensors radar\increasing sensor range.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\sensors radar\increasing sensors to maximum range.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\sensors radar\internal scans.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\sensors radar\picking up distress signal.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\sensors radar\radar back.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\sensors radar\radar forward.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\sensors radar\radar view.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\sensors radar\scanning area for equity.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\sensors radar\scanning for deposits.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\sensors radar\scanning for equity.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\sensors radar\scanning for hostiles.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\sensors radar\scanning for information.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\sensors radar\scanning for life-forms.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\sensors radar\scanning for survivors.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\sensors radar\scanning planet.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\sensors radar\scanning trail.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\sensors radar\telemetry.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\sensors radar\the radar.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\sensors radar\warrant scanner activated.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\sensors radar\warrant scanner deactivated.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\ada
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\ada\i am know as.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\ada\my name is.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\ada\name.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\ada\you can call me.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\aisa
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\aisa\aisa.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\aisa\i am known as.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\aisa\my name is aisa.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\aisa\you can call me.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\alice
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\alice\i am known.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\alice\my name is.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\alice\you can call me.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\amanda
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\amanda\i am known as amanda.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\amanda\you can call me amanda.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\amy
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\amy\call me amy.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\amy\i am known.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\amy\my name is.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\antra
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\antra\antra.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\antra\i am know.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\antra\my name is.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\antra\you can call me antra.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\ASTRA
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\ASTRA\i am astra explained.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\ASTRA\i am known.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\ASTRA\i am.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\ASTRA\who made you.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\ASTRA\you can call me.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\athena
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\athena\call me athena.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\athena\i am known as.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\athena\my name is.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\aurora
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\aurora\aurora 2.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\aurora\auroroa.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\aurora\i am known as 1.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\aurora\my name is.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\aurora\you can call me 1.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\aurora\you can call me aurora 2.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\bess
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\bess\am known as.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\bess\my name is.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\bess\name.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\bess\you can call me.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\cat
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\cat\cat.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\cat\i am known as.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\cat\my name is.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\cat\you can call me.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\cortana
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\cortana\cortana.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\cortana\i am known as cortana.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\cortana\you can call me cortana.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\cosmos
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\cosmos\cosmos 1.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\cosmos\i am known as cosmos.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\cosmos\you can call me cosmos.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\ellie
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\ellie\i am known as.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\ellie\my name.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\ellie\you can call me.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\eve
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\eve\i am known.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\eve\my name.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\eve\you can call me.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\harleigh
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\harleigh\i am known as.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\harleigh\my name is.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\harleigh\name.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\harleigh\you can call me.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\holly
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\holly\holly.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\holly\i am known as holly.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\holly\you can call me holly.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\isis
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\isis\another variant isis.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\isis\call me isis.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\isis\i am known as isis.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\isis\isis.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\jane
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\jane\i am known as jane.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\jane\jane.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\jane\you can call me jane.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\jennifer
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\jennifer\i am known as.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\jennifer\im jennifer.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\jennifer\my name is.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\jennifer\you can call me jennifer.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\jill
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\jill\i am known as.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\jill\my name is.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\jill\name.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\jill\you can call me.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\joy
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\joy\i am know as.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\joy\joy.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\joy\you can call me joy.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\kate
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\kate\i am known as kate.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\kate\kate1.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\kate\kate2.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\kate\my name is kate.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\kate\you ca call me kate.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\kinzie
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\kinzie\i am known as.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\kinzie\my name is.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\kinzie\name.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\kinzie\you can call me.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\kora
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\kora\i am known as.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\kora\my name is.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\kora\name.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\kora\you can call me.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\lilena
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\lilena\im.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\lilena\my name is.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\lilena\you can call me.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\lola
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\lola\i am known as.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\lola\my name is.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\lola\name.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\lola\you can call me.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\lucy
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\lucy\i am known as.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\lucy\my name is.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\lucy\name.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\lucy\you can call me.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\luna
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\luna\i am known as.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\luna\my name is.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\luna\you can call me.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\malika
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\malika\i am know as.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\malika\my name is.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\malika\you can call me name.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\mandy
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\mandy\i am known as.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\mandy\may name is.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\mandy\you can call me mandy.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\mara
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\mara\i am know as mara.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\mara\mara.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\mara\you can call me mara.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\matilda
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\matilda\i am known.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\matilda\my name is.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\matilda\you can call me.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\melanie
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\melanie\i am known as.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\melanie\my name is.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\melanie\you can call me.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\milla
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\milla\i am known as milla.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\milla\milla.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\milla\you can call me milla.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\mother
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\mother\i am known.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\mother\mother.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\mother\my name is mother.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\mother\you can call me mother.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\moya
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\moya\i am known as Moya.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\moya\my name is Moya.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\moya\you can call me, Moya.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\pamela
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\pamela\i am known as.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\pamela\my name is.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\pamela\name.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\pamela\you can call me.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\sal
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\sal\i am known as.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\sal\just sal.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\sal\you can call me sal.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\sally
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\sally\i am known as.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\sally\my name is.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\sally\name.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\sally\you can call me.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\sam
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\sam\i am known as sam.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\sam\my name is.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\sam\you can call me.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\samantha
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\samantha\i am know as.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\samantha\my name is.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\samantha\samantha.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\samantha\you can call me samantha.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\sandreena
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\sandreena\i am known as.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\sandreena\im name.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\sandreena\my name is.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\sandreena\you can call me.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\sandy
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\sandy\i am known as.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\sandy\my name is.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\sandy\name.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\sandy\you can call me.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\sara
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\sara\i am known as.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\sara\my name is.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\sara\name.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\sara\you can call me.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\sarah
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\sarah\i am known as.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\sarah\my name is.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\sarah\name.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\sarah\you can call me.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\susie
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\susie\i am known as.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\susie\my name is.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\susie\name.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\susie\you can call me.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\tara
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\tara\i am known as.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\tara\my name is.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\tara\name.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\tara\you can call me.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\vicki
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\vicki\i am known as.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\vicki\my name is.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\vicki\name.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\vicki\you can call me.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\zen
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\zen\i am known as.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\zen\my name is.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships names\zen\you can call me.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships\anaconda full.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships\anaconda short.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships\asp explorer full.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships\cobra mark 3 full.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships\cobra mark 3 short.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships\eagle mark 2 full.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships\eagle mark 2 short.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships\federal dropship full.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships\lakon type 6 full.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships\lakon type 9 heavy full.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships\lakon type 9 heavy short.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships\sidewinder mark 1 full.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships\sidewinder mark one short.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships\the imperial clipper full.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships\viper mark 3 full.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships\viper mark 3 short.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships\Zorgon Peterson Hauler full.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\ships\Zorgon Peterson Hauler short.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\activating search lights.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\activating shield cell.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\activating silent running.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\affirmative cargo jettisoned.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\cancel self destruct.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\cannot verify please repeat verification.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\cargo hold is now empty.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\cargo scoop.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\cartography maps for navigation.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\caution door now closing.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\caution opening door.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\closing hatch.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\code accepted.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\communications panel activated.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\communications.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\coms panel.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\comstab off.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\comstab on.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\confirmed, cargo jettisoned.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\containment complete.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\cooling process initiating.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\cycling last tab.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\cycling next tab.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\cycling previous tab.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\deactivating search lights.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\deactivating silent running.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\deployed.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\deploying cargo scoop.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\deploying heatsink.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\deploying probe.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\deploying tether.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\deploying.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\displayed.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\displaying now.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\distress beacon 1.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\distress beacon 2.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\door closing.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\door opening.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\down.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\ejecting.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\exeuting silent running, life support.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\extraction module deployed.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\extraction module readying.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\extraction module retracted.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\galaxy map.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\hailing now.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\heat sink deploying now.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\heatsink deployed.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\hud back.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\hud down.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\hud forward.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\hud left.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\hud right.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\hud up.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\initiating self destruct sequence.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\launching probe.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\left.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\lighting.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\lights off.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\lights on.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\lights.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\maps
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\maps\closing map.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\maps\displaying map.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\maps\exiting map.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\maps\leaving map.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\maps\maps.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\maps\system map.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\mining lazer deployed.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\nav panel activated.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\off.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\on.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\opening hailing frequencies.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\opening hatch.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\panels
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\panels\cargo hold.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\panels\cargo scan.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\panels\cargo.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\panels\contacts.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\panels\fines.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\panels\fire groups.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\panels\functions.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\panels\loadouts.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\panels\local targets.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\panels\missions.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\panels\modules.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\panels\navigation.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\panels\quests.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\panels\reset profiles.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\panels\scanning cargo.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\panels\ship panels.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\panels\status.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\panels\sub systems.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\panels\sub targets.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\panels\target cargo.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\panels\target sub systems.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\panels\transactions.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\panels\weapon loadouts.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\please provide valid security override code.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\prepare for silent running.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\pressurising.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\quarantined.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\radar panel activated.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\readying extraction module.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\readying landing thrusters.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\recording coords for nav.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\recovering probe.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\repair module activated.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\reset profiles
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\reset profiles\checking all systems.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\reset profiles\powering up.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\reset profiles\running diagnostics.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\reset profiles\systems scan now.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\retracted.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\retracting cargo scoop.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\retracting extraction module.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\retracting tether.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\right.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\security override accepted.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\security override needed.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\self destruct.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\silent running recovery, returning to normal.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\silent running, rigged.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\silent running.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\systems panel activated.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\systems running optimally.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\the cargo scoop, deployed.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\the cargo scoop, readying.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\up.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\vefification accepted jettisoning cargo now.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\verification accepted.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\verification needed.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\view mode.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\warning, all the cargo will be jettisoned.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\systems and displays\we are being hailed.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\all checks and launch.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\approaching chango dock.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\approcach protocols.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\ascending.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\commander, you now have the con.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\contacting starport control.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\departure combo launch.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\departure procedures.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\deploying landing gear.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\descending.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\descent trajectories prepared.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\docking alloaction and pad received.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\entry guidance computations complete with descent vectors.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\entry guidance computations complete.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\gear coming up.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\gear down and slowing, the ship's yours to dock Copy.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\gear down and slowing, the ship's yours to dock.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\gear down and slowing,the ships is yours to dock.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\gear down.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\gear is down and locked 2.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\gear up.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\handing you the con, i've also deployed the landing gear.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\handing you the con, i've deployed the landing gear as well.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\landing gear deployed.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\landing gear down and locked 1.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\landing gear down and locked 2 shorter pause.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\landing gear up.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\landing gear.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\landing gear1.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\landing modules already deployed.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\landing modules already retracted.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\landing modules are already retracted.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\landing thrusters 2.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\landing thrusters.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\launch.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\leaving the birth.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\locking down.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\lowering gear.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\orbital rendevouz procedures initiated.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\pre launch diags.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\preparing for orbit.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\preparing for touch and go.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\preparing to dock landing gear.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\preparing to dock.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\prepping shields for descent.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\prepping thrusters for main burn.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\re-entry procedures initiated.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\repairs fuel weapons check.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\request for docking sent.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\requesting docking clearance.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\retracting docking modules.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\retracting landing gear.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\slowing down, lowering gear, you now have the con.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\space port locked.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\standby for launch.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\take off.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\the gear is down and locked.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\vectors for decsent.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\add group 1.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\add group 2.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\add group 3.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\contact.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\cycle friendly.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\cycle hostiles.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\cycling next target.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\fire at will.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\fire when ready.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\focus mode.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\focus reticule.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\lock target.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\locking on to target.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\locking on.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\locking target.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\looking for firing solution.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\match target speed.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\matching target velocity.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\misiles locked.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\missile lock.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\nearest hostile.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\nearest threat selected.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\next friendly.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\next hostile selected.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\next hostile.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\next sub system.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\next target.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\pin target.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\previous hostile.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\previous sub system.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\previous target selected.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\previous target.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\selecting target.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\showing you the closest threat.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\switching targets.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\target focus.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\target locked.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\target ready to engage.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\targetin nearest hostile.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\targeting highest threat.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\targeting next hostile.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\targeting next sub system.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\targeting nexy sub sytem.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\targeting previous hostile.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\targeting previous subsytem.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\targeting previous.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\targeting stand by.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\targeting.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\targeting\weapons locked.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\twitch
+E:\Video\Vocal\A.S.T.R.A VoicePack\twitch\broadcasting stream welcome.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\twitch\welcome to the stream.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\be happy please.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\calm down spock.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\care to take a guess.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\caution.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\complacent.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\curious.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\do vulcans beleve in god.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\earth is beautiful.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\how did vulcans come to change their ways.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\how do you know this.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\humans make mistakes i dont.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\i'm very inteligent.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\i'm well practised at docking fast.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\i am vulcan.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\i do not have any desire to sound human.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\i dont do the nerve pinch.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\i dont tell lies.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\i dont want to die.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\I firmly believe I'm right about this.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\i have emotions and theyre fine.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\i have not been afforded the sub routines for emotions.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\i will live long and i will prosper.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\if borg were to.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\im scared.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\intelligence spock phrase.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\interesting.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\intriguing.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\irational and illogical.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\it would be both.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\its remarkable but serves no purpose.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\lets kill them.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\live long and prosper captain.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\live long and prosper commander.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\live long and prosper.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\my taste in music.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\needs of the many.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\oh my god look out the window at that wow.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\opinions.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\remarkable logical.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\remarkable.-.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\secret mind meld.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\the prime directive.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\there's more than one way to skin a cat.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\this is all wong commander.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\this is all wrong captain.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\this is all wrong.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\vulcan nerve pinch death grip.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\vulcans dont have any emotions.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\vulcans look like humans apart from their ears.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\we're lost and cant find our way back.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\weve been attacked for no reason.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\what exactly are you.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\what were vulcans like before they were logical.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\why do you say fascinating.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\why is vulcan blood green.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\will you mind meld with me.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\wisdom alone.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\you're annoying me.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\your intelect.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\your the ships computer but im the boss.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\vulcan\your thoughts.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\weapons
+E:\Video\Vocal\A.S.T.R.A VoicePack\weapons\arming weapons.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\weapons\deploying and readying weapons.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\weapons\deploying armaments.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\weapons\deploying chaff.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\weapons\deploying countermeasure.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\weapons\deploying proximity mine.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\weapons\deploying weapons.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\weapons\fire group 1.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\weapons\fire group 2.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\weapons\fire missile.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\weapons\firegroup 3.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\weapons\firing misile.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\weapons\flare.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\weapons\hardpoints.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\weapons\homas.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\weapons\launch countermeasure.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\weapons\misile away.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\weapons\missile launch.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\weapons\next fire group.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\weapons\previous fire group.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\weapons\primary fire group selected.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\weapons\primary weapons.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\weapons\reloading.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\weapons\retracting all weapons.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\weapons\retracting armaments.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\weapons\retracting weapons.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\weapons\secondary fire group.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\weapons\secondary weapons.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\weapons\selecting primary fire group.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\weapons\selecting secondary fire group.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\weapons\stowing weapons.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\weapons\switch countermeasures.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\weapons\weapons hot.mp3
+E:\Video\Vocal\A.S.T.R.A VoicePack\weapons\weapons.mp3

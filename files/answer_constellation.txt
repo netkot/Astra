@@ -1,0 +1,705 @@
+
+      <Command>
+        <commandString>Constellation andromeda</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\andromeda.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation antlia</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\antlia.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation apus</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\apus.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation aquarius</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\aquarius.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation aquila</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\aquila.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation ara</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\ara.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation aries</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\aries.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation auriga</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\auriga.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation bootis</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\bootis.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation caelum</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\caelum.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation Camelopardalis</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\Camelopardalis.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation cancer</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\cancer.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation Canes Venatici </commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\Canes Venatici .mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation canis major</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\canis major.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation canis minor</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\canis minor.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation capricornus</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\capricornus.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation carina</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\carina.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation casseopia</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\casseopia.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation centaurus</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\centaurus.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation cephius</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\cephius.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation cetus</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\cetus.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation Chamaeleon</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\Chamaeleon.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation circanus</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\circanus.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation columba</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\columba.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation coma bereneces</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\coma bereneces.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation corona australis</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\corona australis.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation corona borealis</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\corona borealis.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation corvus</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\corvus.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation crater</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\crater.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation crux</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\crux.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation cygnus</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\cygnus.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation delphinus</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\delphinus.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation dorado</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\dorado.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation draco</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\draco.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation equullius</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\equullius.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation eridanus</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\eridanus.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation fornax</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\fornax.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation gemini</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\gemini.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation grus</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\grus.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation hercules</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\hercules.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation horologium</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\horologium.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation hydra</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\hydra.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation hydrus</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\hydrus.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation indus</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\indus.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation lacerta</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\lacerta.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation leo minor</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\leo minor.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation leo</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\leo.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation lepus</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\lepus.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation libra</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\libra.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation lupus</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\lupus.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation lynx</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\lynx.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation lyra</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\lyra.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation mensa</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\mensa.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation microscopium</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\microscopium.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation monocerus</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\monocerus.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation musca</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\musca.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation norma</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\norma.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation octans</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\octans.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation ophiucus</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\ophiucus.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation orion</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\orion.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation pavo</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\pavo.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation pegasus</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\pegasus.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation perseus</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\perseus.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation pheonix</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\pheonix.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation pictor</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\pictor.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation pisces</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\pisces.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation Piscis Austrinus</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\Piscis Austrinus.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation puppis</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\puppis.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation pyxis</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\pyxis.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation reticulum</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\reticulum.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation sagita</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\sagita.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation sagitarius</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\sagitarius.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation scorpius</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\scorpius.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation sculptor</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\sculptor.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation scutum</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\scutum.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation serpens</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\serpens.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation sextans</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\sextans.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation taurus</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\taurus.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation telescopium</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\telescopium.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation triangulum australe</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\triangulum australe.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation triangulum</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\triangulum.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation tucana</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\tucana.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation ursa major</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\ursa major.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation ursa minor</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\ursa minor.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation vela</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\vela.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation virgo</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\virgo.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation volans</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\volans.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Constellation vulpecula</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\constellations\vulpecula.mp3</answeringSoundPath>
+      </Command>

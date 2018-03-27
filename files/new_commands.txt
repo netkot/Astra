@@ -1,0 +1,361 @@
+
+      <Command>
+        <commandString>Tell me about act of observation</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\act of observation.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about alice and bob</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\alice and bob.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about atom</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\atom.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about Bell's Theorem</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\Bell's Theorem.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about Bose Einstein Condensate</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\Bose Einstein Condensate.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about computing</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\computing.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about cryptography</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\cryptography.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about decoherance</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\decoherance.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about dice</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\dice.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about entanglement</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\entanglement.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about free will</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\free will.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about gluon</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\gluon.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about gravity</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\gravity.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about hawking radiation</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\hawking radiation.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about hidden variables</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\hidden variables.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about information</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\information.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about interferometer</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\interferometer.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about Josephson Junction</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\Josephson Junction.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about kaon</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\kaon.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about lhc large hadron collider</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\lhc large hadron collider.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about light</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\light.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about many worlds theory</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\many worlds theory.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about multiverse</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\multiverse.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about nonlocality</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\nonlocality.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about Objective Reality</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\Objective Reality.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about Planck's Constant</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\Planck's Constant.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about Probability</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\Probability.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about q-bit</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\q-bit.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about quantum biology</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\quantum biology.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about radioactivity</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\radioactivity.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about randomness</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\randomness.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about reality</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\reality.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about Schrædinger's cat</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\Schrædinger's cat.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about Schrædinger Equation</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\Schrædinger Equation.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about super position</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\super position.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about teleportation</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\teleportation.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about tunneling</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\tunneling.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about uncertainty principle</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\uncertainty principle.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about universe</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\universe.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about virtual particles</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\virtual particles.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about wave function</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\wave function.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about wave particle duality</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\wave particle duality.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about xray</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\xray.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about Young's Double Slit Experiment</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\Young's Double Slit Experiment.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about zero point energy</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\quantum theory\zero point energy.mp3</answeringSoundPath>
+      </Command>

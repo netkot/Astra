@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<ArrayOfProfile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>
+    <name>Elite: Dangerous</name>
+    <commandList>
+      <Command>
+        <commandString>Docking request</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\request for docking sent.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Astra</commandString>
+        <actionList />
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\i'm here.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Landing gear up</commandString>
+        <actionList>
+          <Actions>
+            <type>Key press</type>
+            <keys>D1</keys>
+            <timer>0</timer>
+            <keyModifier>None</keyModifier>
+          </Actions>
+        </actionList>
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\take off and landing\landing gear up.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Tell me about black holes</commandString>
+        <actionList>
+          <Actions>
+            <type>Key press</type>
+            <keys>D0</keys>
+            <timer>0</timer>
+            <keyModifier>None</keyModifier>
+          </Actions>
+        </actionList>
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\galaXapedia\black hole.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Good</commandString>
+        <actionList>
+          <Actions>
+            <type>Key press</type>
+            <keys>D0</keys>
+            <timer>0</timer>
+            <keyModifier>None</keyModifier>
+          </Actions>
+        </actionList>
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\thankyou.mp3</answeringSoundPath>
+      </Command>
+      <Command>
+        <commandString>Computer</commandString>
+        <actionList>
+          <Actions>
+            <type>Key press</type>
+            <keys>D0</keys>
+            <timer>0</timer>
+            <keyModifier>None</keyModifier>
+          </Actions>
+        </actionList>
+        <answering>false</answering>
+        <answeringString />
+        <answeringSound>true</answeringSound>
+        <answeringSoundPath>E:\Video\Vocal\A.S.T.R.A VoicePack\acknowledgements\yes.mp3</answeringSoundPath>
+      </Command>
+    </commandList>
+  </Profile>
+</ArrayOfProfile>
